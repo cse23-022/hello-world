@@ -1,0 +1,79 @@
+# ind<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.5">
+
+<title>Welcome to SpeedStar Motors</title>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Welcome to SpeedStar Motors</h1>
+
+<p>Your High Speed Journey Starts Here With Us</p>
+
+</header>
+
+<nav>
+
+<a href="#">Home</a>
+
+<a href="#">Cars</a>
+
+<a href="#">Services</a>
+
+<a href="#">Contact</a>
+
+</nav>
+
+<main>
+
+<p>We as SpeedStar Motors, our mandate is to give our customers the best experience
+whilst still driving. We achieve this by selling high speed and performance cars as 
+well as luuxury and comfort. You are most welcome to work with us!
+</p>
+
+<!-- Images -->
+
+<div>
+
+<img src="car1.jpg" alt="Car 1">
+
+<img src="car2.jpg" alt="Car 2">
+
+<img src="car3.jpg" alt="Car 3">
+
+<img src="car4.jpg" alt="Car 4">
+
+</div>
+
+</main>
+
+<footer>
+
+<p>&copy; 2024 SpeedStar Motors</p>
+
+<div class="social-icons">
+
+<img src="facebook-icon.png" alt="Facebook">
+
+<img src="twitter-icon.png" alt="Twitter">
+
+<img src="instagram-icon.png" alt="Instagram">
+  
+<img src="gmail-icon.png" alt="Gmail">
+
+</div>
+
+</footer>
+
+</body>ex
+</html>
